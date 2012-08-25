@@ -3,8 +3,8 @@
 	<head>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0; user-scalable=no">
 
-		<link href="/summit/bootstrap/css/bootstrap.min.css" type="text/css" rel="stylesheet" />
-		<link href="/summit/bootstrap/css/bootstrap-responsive.min.css" type="text/css" rel="stylesheet" />
+		<link href="/summit-app/media/bootstrap/css/bootstrap.min.css" type="text/css" rel="stylesheet" />
+		<link href="/summit-app/media/bootstrap/css/bootstrap-responsive.min.css" type="text/css" rel="stylesheet" />
 	</head>
 	<body>
 		
@@ -32,8 +32,8 @@
     	</div>
     </div>
     
-		<script src="/summit/media/js/jquery-1.7.2.min.js"></script>
-		<script src="/summit/bootstrap/js/bootstrap.min.js"></script>
+		<script src="/summit-app/media/js/jquery-1.7.2.min.js"></script>
+		<script src="/summit-app/bootstrap/js/bootstrap.min.js"></script>
 		<script>
 		$(document).ready(function(){
 			
