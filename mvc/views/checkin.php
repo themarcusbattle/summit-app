@@ -33,7 +33,7 @@
     </div>
     
 		<script src="/summit-app/media/js/jquery-1.7.2.min.js"></script>
-		<script src="/summit-app/bootstrap/js/bootstrap.min.js"></script>
+		<script src="/summit-app/media/bootstrap/js/bootstrap.min.js"></script>
 		<script>
 		$(document).ready(function(){
 			
