@@ -56,7 +56,7 @@
 					
 					if(response.success) {
 						alert('student added!');
-						window.location = 'bus';
+						window.location = '../bus';
 					} else {
 						alert('Error: Student was not added and is not checked into the bus');
 					}
