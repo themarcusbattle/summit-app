@@ -49,6 +49,8 @@
 			
 			$('#schools').change(function() { 
 				
+				$('#students').html('');
+				
 				$.ajax({
 				  type: "GET",
 				  url: "api/1/students.json",
