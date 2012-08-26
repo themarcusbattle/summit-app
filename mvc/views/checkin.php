@@ -84,7 +84,7 @@
 					
 					if(response.success) {
 						alert('Student checked in');
-						window.location = '/summit/bus';
+						window.location = 'bus';
 					} else {
 						alert('Error: Please select a registered university');
 					}
